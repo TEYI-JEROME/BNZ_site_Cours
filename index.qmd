@@ -1,1 +1,61 @@
-"# Bienvenue sur mon site de cours" 
+---
+title: "BNZ – Cours de Rhumatologie"
+format:
+  html:
+    toc: false
+    theme: cosmo
+lang: fr
+---
+
+
+# 🩺 BNZ – Cours de Rhumatologie
+
+::: {.callout-note appearance="simple"}
+## ![](cours/images/SK_15.png){width="90px" style="border-radius:50%;float:left;margin-right:15px;margin-top:5px"}  
+### **Bienvenue sur la plateforme BNZ**
+
+Plateforme de formation du  
+**Dr KOLLO NZIMA Brice Kevin**, Médecin Rhumatologue.
+
+Supports pédagogiques modernes, illustrés et adaptés aux  
+**étudiants en médecine** & **professionnels de santé**.
+
+[📘 Accéder aux cours](cours/obs-raisonnement-rhumato.html){.btn .btn-primary}  
+[ℹ️ À propos de l’auteur](#a-propos){.btn .btn-light}
+:::
+
+
+## <i class="fa-solid fa-user-doctor"></i> À propos de l’auteur {#a-propos}
+
+Dr **KOLLO NZIMA Brice Kevin** est un médecin Rhumatologue camerounais,  
+formé en Côte d’Ivoire et membre de la **42ᵉ promotion FMSB – Université de Yaoundé I**.
+
+Ses principaux centres d’intérêt :
+
+- <i class="fa-solid fa-virus"></i> **Mal de Pott & spondylodiscite tuberculeuse**
+- <i class="fa-solid fa-bone"></i> **Arthrose des membres en Afrique de l’Ouest**
+- <i class="fa-solid fa-capsules"></i> **Automédication aux AINS**
+- <i class="fa-solid fa-stethoscope"></i> **Sémiologie & raisonnement clinique**
+
+Il est également **contributeur AFLAR & CCR**  
+et intervient comme **président de session**.
+
+---
+
+## <i class="fa-solid fa-book-open"></i> Cours disponibles
+
+- <i class="fa-solid fa-graduation-cap"></i> [Observation médicale & raisonnement clinique](cours/obs-raisonnement-rhumato.html)
+- <i class="fa-solid fa-brain"></i> [Spondylodiscite vue par le rhumatologue](cours/spondylodiscite-rhumato.html)
+
+---
+
+## <i class="fa-solid fa-bullseye"></i> Objectif de la plateforme
+
+Cette plateforme vise à :
+
+- fournir des **supports actualisés** et structurés,
+- proposer des contenus **illustrés** et pédagogiques,
+- soutenir les étudiants du **1ᵉʳ et 2ᵉ cycle**,
+- valoriser l’**expérience clinique africaine**.
+
+**Bonne lecture, et excellente formation !**

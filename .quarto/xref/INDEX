@@ -1,8 +1,14 @@
 {
   "BNZ_site.qmd": {
-    "BNZ_site.html": "cad7672a"
+    "BNZ_site.html": "ffdc98a2"
+  },
+  "cours/obs-raisonnement-rhumato.qmd": {
+    "obs-raisonnement-rhumato.html": "8f6fa0b9"
+  },
+  "cours/spondylodiscite-rhumato.qmd": {
+    "spondylodiscite-rhumato.html": "b27ce78b"
   },
   "index.qmd": {
-    "index.html": "698c47db"
+    "index.html": "e79fd984"
   }
 }

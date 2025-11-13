@@ -7,9 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Accueil
-      - href: BNZ_site.qmd
-        text: Exemple
+      - text: Cours
+        menu:
+          - href: cours/obs-raisonnement-rhumato.qmd
+            text: Observation & Raisonnement
+          - href: cours/spondylodiscite-rhumato.qmd
+            text: Spondylodiscite
 
 format:
   html:
     theme: cosmo
+    include-in-header: fontawesome.html

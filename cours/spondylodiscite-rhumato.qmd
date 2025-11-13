@@ -1,0 +1,386 @@
+---
+title: "Spondylodiscite vue par le rhumatologue"
+subtitle: "Conduite à tenir devant une spondylodiscite infectieuse"
+author: "Dr KOLLO Nzima Brice"
+format:
+  html:
+    toc: true
+    number-sections: true
+lang: fr
+---
+
+# Objectifs du cours
+
+- ✅ Définir la **spondylodiscite**
+- ✅ Faire le **diagnostic positif** de la spondylodiscite tuberculeuse
+- ✅ Citer les **4 principaux germes banals**
+- ✅ Énoncer les **principes du traitement**
+
+# Généralités
+
+## Définition
+
+> ::: note
+> ### 📘 Définition
+>
+> **Spondylodiscite** = atteinte inflammatoire de :
+>
+> - 💿 **Disque intervertébral** (*discite*)
+> - 🦴 **Corps vertébraux adjacents** (*spondylite*)[^cofer]
+> :::
+
+> ::: important
+> ### ⚠️ Urgence
+>
+> 🛑 La spondylodiscite est une **urgence diagnostique et médico-chirurgicale**.[^jgr]
+> :::
+
+[^cofer]: Cofer, 7ᵉ édition.  
+[^jgr]: Jean-Guillome et al., *Revue du Rhumatisme* 89 (avril 2022) : 79–83.
+
+## Introduction
+
+> ::: tip
+> ### 🎯 Intérêt
+>
+> - 🔢 **Fréquence** : ≈ **34 %** des infections ostéo-articulaires.
+> - 🧫 **Étiologie tuberculeuse** : ≈ **7,6 %**.
+> - 🩺 Diagnostic fondé sur la **clinique**, la **biologie** et l’**imagerie**.
+> - 🧪 La **ponction-biopsie disco-vertébrale** permet l’isolement du germe.
+> :::
+
+## Rappels anatomiques
+
+### Colonne vertébrale et disque intervertébral
+
+![](images/SK_2.png){width="100%"}
+
+### Détails anatomiques complémentaires
+
+![](images/SK_3.png){width="100%"}
+
+# Physiopathologie
+
+## Germes en cause
+
+- 🧫 **Bacille tuberculeux** (bacille de Koch)
+- 🧪 **Staphylococcus aureus**
+- 🧪 **Streptocoques β-hémolytiques**
+
+## Terrain et facteurs favorisants
+
+> ::: note
+> ### 👤 Terrain à risque[^cofer2]
+>
+> - Sexe masculin
+> - Âge **> 50 ans**
+> - Présence de facteurs favorisants
+> :::
+
+> ::: warning
+> ### ⚠️ Facteurs favorisants
+>
+> - 😷 **Immunodépression** : VIH, diabète, insuffisance rénale chronique, hémodialyse, insuffisance hépatique, rhumatismes inflammatoires chroniques  
+> - 💊 Corticothérapie prolongée, immunosuppresseurs  
+> - 🍷 Alcoolisme  
+> - ☣️ Toxicomanie  
+> :::
+
+[^cofer2]: Cofer, 7ᵉ édition.
+
+## Porte d’entrée
+
+> ::: note
+> ### 🚪 Principales portes d’entrée[^grassa]
+>
+> - Pulmonaire (≈ 50 % des tuberculoses pulmonaires)
+> - Dentaire
+> - Digestive
+> - Urologique
+> - Cutanée
+> :::
+
+[^grassa]: Grassa et al., *Revue de médecine interne* 40 (2019).
+
+## Inoculation et atteinte vertébrale
+
+### Voies d’inoculation
+
+- 🩸 **Hématogène**
+- 💉 **Directe**
+
+### Atteinte du corps vertébral
+
+- Plateaux vertébraux  
+- Disque intervertébral  
+- Extensions vasculaires et sous-ligamentaires
+
+> ::: note
+> ### 🖼 Schéma d’atteinte vertébrale
+>
+> ![](images/SK_4.png){width="75%"}
+> :::
+
+# Diagnostic positif
+
+## Mal de Pott : présentation typique
+
+> ::: important
+> ### 🔴 Mal de Pott
+>
+> - Fréquente chez l’**Africain**
+> - ≈ **75 %** des spondylodiscites infectieuses
+> - Possible à **tout âge**
+> - Souvent associée à un **contage tuberculeux**
+> :::
+
+## Motif de consultation : douleur rachidienne
+
+- Liée à la **topographie**
+- Localisée ou irradiant
+- Installation **insidieuse**
+- **Mécanique puis inflammatoire**
+- Intensité variable
+
+## Troubles moteurs et déformations
+
+### Troubles moteurs
+
+- Paraparésie  
+- Paraplégie  
+- Tétraplégie  
+
+### Déformations
+
+- Tuméfaction rachidienne  
+- Gibbosité  
+
+## Interrogatoire
+
+### Signes généraux
+
+- 🌡️ Fièvre vespérale  
+- 😴 Asthénie  
+- 🚫🍽️ Anorexie  
+- ⚖️ Amaigrissement  
+- 🌙 Sueurs nocturnes  
+
+### Facteurs favorisants
+
+- Antécédents TB  
+- Notion de contage  
+- Promiscuité  
+- Immunodépression  
+
+## Syndrome rachidien
+
+### Inspection
+
+- Attitude **guindée**
+- Courbures modifiées
+- Tuméfaction dorsolombaire
+
+### Palpation
+
+- Contracture paravertébrale  
+- Points douloureux  
+- Abcès froid  
+
+> ::: note
+> ### 🖼 Illustration clinique
+>
+> ![](images/SK_5.png){width="80%"}
+> :::
+
+## Examen physique
+
+### Mobilité
+
+- 🔒 Raideur segmentaire  
+- Impossibilité des mouvements  
+
+### Neurologique
+
+- Déficit moteur  
+- Troubles sensitifs  
+- Troubles sphinctériens  
+
+### État général
+
+- Évaluation  
+- Recherche d’autres atteintes TB : poumon, ganglions, tube digestif, uro-génital  
+
+# Diagnostic paraclinique
+
+## Radiographie standard
+
+> ::: note
+> ### 🩻 Signes radiographiques
+>
+> - 🔻 Pincement discal  
+> - Déminéralisation  
+> - Érosions  
+> - Géodes  
+> - Opacité paravertébrale  
+> :::
+
+![](images/SK_6.png)
+
+### Exemples
+
+![](images/SK_7.png)
+![](images/SK_8.png)
+![](images/SK_9.png)
+
+## TDM & scintigraphie
+
+- Lésions osseuses  
+- Bilan d’extension  
+- Hyperfixation scintigraphique  
+
+![](images/SK_10.png)
+
+## IRM
+
+> ::: important
+> ### 🚨 IRM rachidienne
+>
+> Examen clé en urgence neurologique
+> :::
+
+- Séquences T1 / T2 / STIR  
+- Recherche épidurite / abcès  
+
+![](images/SK_11.png)
+
+### Autres vues
+
+![](images/SK_12.png){width="50%"}  
+![](images/SK_13.png){width="50%"}
+
+## Examens spécifiques
+
+> ::: note
+> ### 🔬 Ponction / biopsie
+>
+> Permet l’isolement du germe et la confirmation diagnostique.
+> :::
+
+### Histologie
+
+- Granulome épithélioïde  
+- Nécrose caséeuse  
+
+### Cyto-bactériologie
+
+- Auramine  
+- Lowenstein / BACTEC  
+- PCR BK  
+
+## Arguments indirects
+
+### Bactériologie
+
+- BAAR  
+- Culture  
+- Crachats, urine  
+
+### Biologie
+
+- Quantiferon  
+- IDR phlycténulaire  
+
+# Diagnostic étiologique
+
+## Comparatif
+
+|                         | Germes banals | Tuberculose |
+|-------------------------|---------------|-------------|
+| Début                   | Brutal        | Progressif  |
+| Fièvre                  | Élevée        | Faible      |
+| VS                      | Très élevée   | Modérée     |
+| CRP                     | Très haute    | Moyenne     |
+| Hémocultures            | Positives     | Négatives   |
+| Radiographie            | Destructive   | Peu sévère  |
+| Complications neuro     | Rares         | Fréquentes  |
+
+## Étiologies
+
+### Spécifiques
+
+- TB  
+- Brucellose  
+
+### Banal
+
+- Cocci Gram +  
+- Bacilles Gram –  
+
+### Autres
+
+- Parasites  
+- Mycoses  
+- Virus  
+
+# Traitement
+
+## Objectifs
+
+> ::: tip
+> ### 🎯 Objectifs
+>
+> - Stériliser le foyer  
+> - Soulager le patient  
+> - Prévenir les complications  
+> - Réinsertion sociale  
+> :::
+
+## Traitement antituberculeux
+
+- **Rifampicine**  
+- **Isoniazide**  
+- **Pyrazinamide**  
+- **Ethambutol**  
+
+Schéma : **RHZE 2 mois** → **RH 10 mois**
+
+## Antibiothérapie
+
+- Oxacilline  
+- Ceftriaxone  
+- Gentamycine  
+- Ofloxacine  
+- Acide fusidique  
+
+## Traitement physique
+
+- Nursing  
+- Corset  
+- Rééducation  
+
+![](images/SK_14.png){width="70%"}
+
+## Traitement chirurgical
+
+- Drainage  
+- Décompression  
+- Stabilisation  
+
+## Surveillance
+
+- Clinique : ictère, prurit, urines foncées, arthralgies  
+- Paraclinique : transaminases, urée, créatinine  
+- Imagerie en fin de traitement  
+
+# Conclusion
+
+> ::: important
+> ### ✅ Points essentiels
+>
+> - Affection fréquente  
+> - Complications neurologiques et orthopédiques  
+> - Diagnostic précoce essentiel  
+> - Traitement long et bien conduit  
+> :::
+
+Merci de votre attention.

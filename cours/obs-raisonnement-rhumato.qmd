@@ -1,0 +1,383 @@
+---
+title: "Observation médicale et raisonnement clinique en rhumatologie"
+author: "Dr KOLLO Nzima Brice"
+subtitle: "Cours de Médecine Interne et Spécialités – Rhumatologie"
+format:
+  html:
+    toc: true
+    number-sections: true
+lang: fr
+---
+
+# Objectifs du cours
+
+- 🎯 Définir une **observation médicale**
+- 📝 Connaître les **étapes de l’observation médicale**
+- 🧠 Savoir **discuter les diagnostics en rhumatologie**
+
+# I. Généralités
+
+## Définition
+
+> ::: note
+> ### 🩺 Observation médicale
+>
+> L’observation médicale correspond à l’ensemble des informations  
+> 📋 **(notes cliniques, signes, antécédents, paramètres)**  
+> recueillies au cours d’une consultation ou d’une hospitalisation.
+> :::
+
+## Intérêt
+
+- 🔍 **Diagnostic** : identifier la maladie à partir des symptômes  
+- 💊 **Thérapeutique** : prescrire un traitement adapté  
+- 📚 **Transmission** : documenter les éléments cliniques essentiels  
+- 📈 **Pronostic** : évaluer la sévérité et les risques  
+
+## Liste de matériel
+
+### Instruments essentiels
+
+- 🌡️ Thermomètre  
+- ❤️ Tensiomètre (brassard normal et large)  
+- 🩺 Stéthoscope  
+- 📏 Mètre ruban  
+- 🔨 Marteau à réflexes  
+- 🧪 Bandelettes urinaires  
+- 📐 Goniomètre  
+- 🔔 Diapason  
+- 🪵 Abaisse-langue  
+- 📊 EVA ou règle de 10 cm  
+- ⚖️ Pèse-personne et toise  
+
+## Attitudes recommandées
+
+> ::: tip
+> ### 👩‍⚕️ Attitude générale
+>
+> - Blouse propre  
+> - Ongles courts  
+> - Lavage des mains régulier  
+> - Chaussures propres et fermées  
+> - Cheveux soignés  
+> - Barbe rasée ou bien taillée  
+> :::
+
+### Relation au patient
+
+- 🤝 Saluer dans la langue vernaculaire si possible  
+- 🗣️ Se présenter  
+- 🙇‍♂️ Vouvoyer le patient  
+- 🔒 Respect strict de la confidentialité  
+- ↘️ Se placer à la droite du patient  
+
+## Ce qu’il ne faut pas faire
+
+> ::: warning
+> ### ❌ À éviter
+>
+> - Interrompre le patient  
+> - Écrire pendant qu’il parle  
+> - Poser des questions orientées  
+> - Utiliser un langage technique  
+> - Critiquer un autre médecin  
+> :::
+
+# II. Étapes de l’observation médicale
+
+## Vue d’ensemble
+
+- 🗣️ **Interrogatoire**  
+- 👤 **Examen physique**  
+- 📝 **Résumé syndromique**  
+- 🔍 **Diagnostic**  
+- 🧪 **Investigations**  
+- 💊 **Traitement**  
+- 📈 **Pronostic**  
+- ✔️ **Conclusion**
+
+# Interrogatoire
+
+## Identification du patient
+
+### Informations essentielles
+
+- 🧑 Nom / Prénoms (initiales possibles)  
+- 🚻 Sexe  
+- 🎂 Âge / Date de naissance  
+- 🏠 Adresse  
+- 🌍 Tribu / Ethnie  
+- 👔 Profession  
+- 💍 Statut matrimonial  
+- 🎓 Niveau d’éducation  
+- ⛪ Religion  
+- 📞 Contact téléphonique  
+
+> ::: warning
+> **NB :** préciser s’il s’agit d’une **hétéroanamnèse**.
+> :::
+
+## Motif de consultation / hospitalisation
+
+### Motif de consultation
+
+- Maximum 1 à 3 motifs  
+- 🎯 Symptôme principal ayant motivé la venue  
+- ❗ Recherche du ou des symptômes d’alerte
+
+### Motif d’hospitalisation
+
+- Peut être programmé (exploration, traitements, etc.)
+
+## Histoire de la maladie
+
+### Principes
+
+- 🎧 Écoute active  
+- Sans jugement  
+- Date de début **la plus précise possible**  
+- Ordre chronologique  
+
+### Expressions utiles
+
+- « Début remonterait à… »  
+- « Tout aurait commencé le… »  
+- « Le malade se portait bien jusqu’à… »
+
+### Ce qu’il faut décrire
+
+- 🗓️ Date du début  
+- 📈 Mode d’installation  
+- 🧩 Signes associés  
+- ➖ Signes négatifs importants  
+- 📔 Consulter le carnet de santé  
+- 🛣️ Parcours médical  
+  - paramètres (TA, T°, pouls)  
+  - examens réalisés  
+  - traitements reçus  
+  - évolution  
+
+## Antécédents personnels
+
+### Médicaux
+
+- HTA, diabète, goutte  
+- Asthme, maladie rénale chronique  
+- Pathologies locomotrices  
+- Facteurs de risque de la maladie actuelle  
+
+### Chirurgicaux
+
+- Type d’intervention  
+- Modalités de l’anesthésie  
+
+### Médicamenteux
+
+- Corticothérapie prolongée  
+- Immunosuppresseurs  
+- AINS, traitements chroniques  
+
+### Immuno-allergiques
+
+- Allergies  
+- Électrophorèse de l’Hb  
+- Statut vaccinal  
+
+### Gynéco-obstétrique
+
+- DDR, ménopause  
+- Avortements spontanés  
+- Contraception  
+
+### Socio-environnemental
+
+- Alcool, tabac, drogues  
+- Conditions de vie  
+- Contage tuberculeux  
+
+## Antécédents familiaux
+
+- Goutte  
+- Maladies auto-immunes  
+- Maladies rhumatologiques
+
+## Revue des systèmes
+
+### Symptômes généraux
+
+- Asthénie  
+- Anorexie  
+- Amaigrissement  
+- Fièvre  
+- Sueurs  
+
+### Urologie
+
+- Dysurie, brûlure  
+- Hématurie éventuelle  
+
+### Digestif
+
+- Douleur abdominale  
+- Nausées  
+
+### Respiratoire
+
+- Toux  
+- Dyspnée  
+
+### Endocrinien
+
+- Polyurie  
+- Polydipsie  
+
+### Cardio-vasculaire
+
+- Dyspnée  
+- Palpitations  
+
+### Neurologique
+
+- Céphalées  
+- Paresthésies  
+
+# Examen physique
+
+## Généralités
+
+- 👀 Examen général  
+- 🧠 État de conscience  
+- 🛏️ Index de performance OMS (0 à 4)
+
+## Paramètres
+
+- ⚖️ Poids, taille, IMC  
+- ❤️ TA, pouls, FR, T°  
+- 💧 Diurèse  
+
+## Principes
+
+- Inspection  
+- Palpation  
+- Percussion  
+- Mobilisation / A
+
+## Examen ostéo-articulaire
+
+- Squelette axial  
+- Squelette périphérique  
+- Étapes : inspection, palpation, percussion, mobilisation  
+- Manœuvres spéciales : Lasègue, Léri…
+
+## Autres systèmes
+
+- Neurologique  
+- Cardio-respiratoire  
+- Digestif  
+- Cutané  
+- Uro-génital  
+- Hématologique  
+
+# Résumé syndromique et raisonnement clinique
+
+## Résumé syndromique
+
+> ::: note
+> ### 🎯 Principes du résumé
+>
+> - identification synthétique  
+> - reformulation scientifique du motif  
+> - extraction des éléments clés  
+> :::
+
+### Exemple
+
+> « Homme de 45 ans, admis pour gonalgie droite évoluant depuis 8 semaines dans un contexte de fièvre et de diarrhée intermittente. »
+
+## Approche diagnostique
+
+### Formulation d’hypothèses
+
+- En général 3 diagnostics  
+- De la **plus probable** à la **moins probable**
+
+### Discussion
+
+- Arguments pour et contre  
+- Arguments cliniques  
+- Paracliniques  
+- Facteurs épidémiologiques  
+
+## Investigations
+
+- Examens biologiques  
+- Examens morphologiques  
+- Examens fonctionnels  
+
+## Diagnostic de travail
+
+- Hypothèse retenue  
+- Sert de base à la prise en charge  
+
+# Traitement
+
+## Traitement curatif
+
+### Buts
+
+- Traiter la cause  
+- Gérer les comorbidités  
+- Prévenir les complications  
+
+### Moyens
+
+- Médicaux  
+  - hygiène, diététique  
+  - symptomatiques  
+  - traitements de fond  
+- Chirurgicaux  
+- Instrumentaux  
+
+## Conduite pratique
+
+- Raisonnement par problème  
+- Définir les moyens disponibles  
+- Indications médicales, chirurgicales, instrumentales  
+
+## Prévention
+
+- 🛡️ Prévention primaire  
+- 🛡️ Prévention secondaire  
+- 🛡️ Prévention tertiaire  
+
+# Évolution et pronostic
+
+## Évolution
+
+- 📈 Paramètres cliniques  
+- 🧪 Paramètres paracliniques  
+- ⚠️ Effets secondaires  
+
+## Types d’évolution
+
+- Favorable  
+- Défavorable  
+
+## Pronostic
+
+- Court terme  
+- Moyen terme  
+- Long terme  
+
+# Conclusion
+
+> ::: important
+> ### 📝 Conclusion
+>
+> - Retenir les éléments importants du cas  
+> - Souligner l’intérêt de l’observation  
+> - Préciser les particularités locales / africaines  
+> - Identifier les difficultés diagnostiques  
+> - Discuter les contraintes thérapeutiques  
+> :::
+
