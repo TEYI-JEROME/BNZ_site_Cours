@@ -1,23 +1,422 @@
 [
   {
-    "objectID": "BNZ_site.html",
-    "href": "BNZ_site.html",
-    "title": "BNZ_site",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "BNZ_site.html#quarto",
-    "href": "BNZ_site.html#quarto",
-    "title": "BNZ_site",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BNZ - Cours",
+    "title": "BNZ – Cours de Rhumatologie",
     "section": "",
-    "text": "“# Bienvenue sur mon site de cours”"
+    "text": "Note\n\n\n\n\nPlateforme de formation du\nDr KOLLO NZIMA Brice Kevin, Médecin Rhumatologue.\nSupports pédagogiques modernes, illustrés et adaptés aux\nétudiants en médecine & professionnels de santé.\n📘 Accéder aux cours\nℹ️ À propos de l’auteur\n\n\n\n\nDr KOLLO NZIMA Brice Kevin est un médecin Rhumatologue camerounais,\nformé en Côte d’Ivoire et membre de la 42ᵉ promotion FMSB – Université de Yaoundé I.\nSes principaux centres d’intérêt :\n\n Mal de Pott & spondylodiscite tuberculeuse\n Arthrose des membres en Afrique de l’Ouest\n Automédication aux AINS\n Sémiologie & raisonnement clinique\n\nIl est également contributeur AFLAR & CCR\net intervient comme président de session.\n\n\n\n\n\n Observation médicale & raisonnement clinique\n Spondylodiscite vue par le rhumatologue\n\n\n\n\n\nCette plateforme vise à :\n\nfournir des supports actualisés et structurés,\nproposer des contenus illustrés et pédagogiques,\nsoutenir les étudiants du 1ᵉʳ et 2ᵉ cycle,\nvaloriser l’expérience clinique africaine.\n\nBonne lecture, et excellente formation !"
+  },
+  {
+    "objectID": "index.html#a-propos",
+    "href": "index.html#a-propos",
+    "title": "BNZ – Cours de Rhumatologie",
+    "section": "",
+    "text": "Dr KOLLO NZIMA Brice Kevin est un médecin Rhumatologue camerounais,\nformé en Côte d’Ivoire et membre de la 42ᵉ promotion FMSB – Université de Yaoundé I.\nSes principaux centres d’intérêt :\n\n Mal de Pott & spondylodiscite tuberculeuse\n Arthrose des membres en Afrique de l’Ouest\n Automédication aux AINS\n Sémiologie & raisonnement clinique\n\nIl est également contributeur AFLAR & CCR\net intervient comme président de session."
+  },
+  {
+    "objectID": "index.html#cours-disponibles",
+    "href": "index.html#cours-disponibles",
+    "title": "BNZ – Cours de Rhumatologie",
+    "section": "",
+    "text": "Observation médicale & raisonnement clinique\n Spondylodiscite vue par le rhumatologue"
+  },
+  {
+    "objectID": "index.html#objectif-de-la-plateforme",
+    "href": "index.html#objectif-de-la-plateforme",
+    "title": "BNZ – Cours de Rhumatologie",
+    "section": "",
+    "text": "Cette plateforme vise à :\n\nfournir des supports actualisés et structurés,\nproposer des contenus illustrés et pédagogiques,\nsoutenir les étudiants du 1ᵉʳ et 2ᵉ cycle,\nvaloriser l’expérience clinique africaine.\n\nBonne lecture, et excellente formation !"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html",
+    "href": "cours/obs-raisonnement-rhumato.html",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "",
+    "text": "🎯 Définir une observation médicale\n📝 Connaître les étapes de l’observation médicale\n🧠 Savoir discuter les diagnostics en rhumatologie"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#définition",
+    "href": "cours/obs-raisonnement-rhumato.html#définition",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "2.1 Définition",
+    "text": "2.1 Définition\n\n\n2.1.1 🩺 Observation médicale\nL’observation médicale correspond à l’ensemble des informations\n📋 (notes cliniques, signes, antécédents, paramètres)\nrecueillies au cours d’une consultation ou d’une hospitalisation."
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#intérêt",
+    "href": "cours/obs-raisonnement-rhumato.html#intérêt",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "2.2 Intérêt",
+    "text": "2.2 Intérêt\n\n🔍 Diagnostic : identifier la maladie à partir des symptômes\n\n💊 Thérapeutique : prescrire un traitement adapté\n\n📚 Transmission : documenter les éléments cliniques essentiels\n\n📈 Pronostic : évaluer la sévérité et les risques"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#liste-de-matériel",
+    "href": "cours/obs-raisonnement-rhumato.html#liste-de-matériel",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "2.3 Liste de matériel",
+    "text": "2.3 Liste de matériel\n\n2.3.1 Instruments essentiels\n\n🌡️ Thermomètre\n\n❤️ Tensiomètre (brassard normal et large)\n\n🩺 Stéthoscope\n\n📏 Mètre ruban\n\n🔨 Marteau à réflexes\n\n🧪 Bandelettes urinaires\n\n📐 Goniomètre\n\n🔔 Diapason\n\n🪵 Abaisse-langue\n\n📊 EVA ou règle de 10 cm\n\n⚖️ Pèse-personne et toise"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#attitudes-recommandées",
+    "href": "cours/obs-raisonnement-rhumato.html#attitudes-recommandées",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "2.4 Attitudes recommandées",
+    "text": "2.4 Attitudes recommandées\n\n\n2.4.1 👩‍⚕️ Attitude générale\n\nBlouse propre\n\nOngles courts\n\nLavage des mains régulier\n\nChaussures propres et fermées\n\nCheveux soignés\n\nBarbe rasée ou bien taillée\n\n\n\n\n\n2.4.2 Relation au patient\n\n🤝 Saluer dans la langue vernaculaire si possible\n\n🗣️ Se présenter\n\n🙇‍♂️ Vouvoyer le patient\n\n🔒 Respect strict de la confidentialité\n\n↘️ Se placer à la droite du patient"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#ce-quil-ne-faut-pas-faire",
+    "href": "cours/obs-raisonnement-rhumato.html#ce-quil-ne-faut-pas-faire",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "2.5 Ce qu’il ne faut pas faire",
+    "text": "2.5 Ce qu’il ne faut pas faire\n\n\n2.5.1 ❌ À éviter\n\nInterrompre le patient\n\nÉcrire pendant qu’il parle\n\nPoser des questions orientées\n\nUtiliser un langage technique\n\nCritiquer un autre médecin"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#vue-densemble",
+    "href": "cours/obs-raisonnement-rhumato.html#vue-densemble",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "3.1 Vue d’ensemble",
+    "text": "3.1 Vue d’ensemble\n\n🗣️ Interrogatoire\n\n👤 Examen physique\n\n📝 Résumé syndromique\n\n🔍 Diagnostic\n\n🧪 Investigations\n\n💊 Traitement\n\n📈 Pronostic\n\n✔️ Conclusion"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#identification-du-patient",
+    "href": "cours/obs-raisonnement-rhumato.html#identification-du-patient",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "4.1 Identification du patient",
+    "text": "4.1 Identification du patient\n\n4.1.1 Informations essentielles\n\n🧑 Nom / Prénoms (initiales possibles)\n\n🚻 Sexe\n\n🎂 Âge / Date de naissance\n\n🏠 Adresse\n\n🌍 Tribu / Ethnie\n\n👔 Profession\n\n💍 Statut matrimonial\n\n🎓 Niveau d’éducation\n\n⛪ Religion\n\n📞 Contact téléphonique\n\n\n\nNB : préciser s’il s’agit d’une hétéroanamnèse."
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#motif-de-consultation-hospitalisation",
+    "href": "cours/obs-raisonnement-rhumato.html#motif-de-consultation-hospitalisation",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "4.2 Motif de consultation / hospitalisation",
+    "text": "4.2 Motif de consultation / hospitalisation\n\n4.2.1 Motif de consultation\n\nMaximum 1 à 3 motifs\n\n🎯 Symptôme principal ayant motivé la venue\n\n❗ Recherche du ou des symptômes d’alerte\n\n\n\n4.2.2 Motif d’hospitalisation\n\nPeut être programmé (exploration, traitements, etc.)"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#histoire-de-la-maladie",
+    "href": "cours/obs-raisonnement-rhumato.html#histoire-de-la-maladie",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "4.3 Histoire de la maladie",
+    "text": "4.3 Histoire de la maladie\n\n4.3.1 Principes\n\n🎧 Écoute active\n\nSans jugement\n\nDate de début la plus précise possible\n\nOrdre chronologique\n\n\n\n4.3.2 Expressions utiles\n\n« Début remonterait à… »\n\n« Tout aurait commencé le… »\n\n« Le malade se portait bien jusqu’à… »\n\n\n\n4.3.3 Ce qu’il faut décrire\n\n🗓️ Date du début\n\n📈 Mode d’installation\n\n🧩 Signes associés\n\n➖ Signes négatifs importants\n\n📔 Consulter le carnet de santé\n\n🛣️ Parcours médical\n\nparamètres (TA, T°, pouls)\n\nexamens réalisés\n\ntraitements reçus\n\névolution"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#antécédents-personnels",
+    "href": "cours/obs-raisonnement-rhumato.html#antécédents-personnels",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "4.4 Antécédents personnels",
+    "text": "4.4 Antécédents personnels\n\n4.4.1 Médicaux\n\nHTA, diabète, goutte\n\nAsthme, maladie rénale chronique\n\nPathologies locomotrices\n\nFacteurs de risque de la maladie actuelle\n\n\n\n4.4.2 Chirurgicaux\n\nType d’intervention\n\nModalités de l’anesthésie\n\n\n\n4.4.3 Médicamenteux\n\nCorticothérapie prolongée\n\nImmunosuppresseurs\n\nAINS, traitements chroniques\n\n\n\n4.4.4 Immuno-allergiques\n\nAllergies\n\nÉlectrophorèse de l’Hb\n\nStatut vaccinal\n\n\n\n4.4.5 Gynéco-obstétrique\n\nDDR, ménopause\n\nAvortements spontanés\n\nContraception\n\n\n\n4.4.6 Socio-environnemental\n\nAlcool, tabac, drogues\n\nConditions de vie\n\nContage tuberculeux"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#antécédents-familiaux",
+    "href": "cours/obs-raisonnement-rhumato.html#antécédents-familiaux",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "4.5 Antécédents familiaux",
+    "text": "4.5 Antécédents familiaux\n\nGoutte\n\nMaladies auto-immunes\n\nMaladies rhumatologiques"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#revue-des-systèmes",
+    "href": "cours/obs-raisonnement-rhumato.html#revue-des-systèmes",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "4.6 Revue des systèmes",
+    "text": "4.6 Revue des systèmes\n\n4.6.1 Symptômes généraux\n\nAsthénie\n\nAnorexie\n\nAmaigrissement\n\nFièvre\n\nSueurs\n\n\n\n4.6.2 Urologie\n\nDysurie, brûlure\n\nHématurie éventuelle\n\n\n\n4.6.3 Digestif\n\nDouleur abdominale\n\nNausées\n\n\n\n4.6.4 Respiratoire\n\nToux\n\nDyspnée\n\n\n\n4.6.5 Endocrinien\n\nPolyurie\n\nPolydipsie\n\n\n\n4.6.6 Cardio-vasculaire\n\nDyspnée\n\nPalpitations\n\n\n\n4.6.7 Neurologique\n\nCéphalées\n\nParesthésies"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#généralités",
+    "href": "cours/obs-raisonnement-rhumato.html#généralités",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "5.1 Généralités",
+    "text": "5.1 Généralités\n\n👀 Examen général\n\n🧠 État de conscience\n\n🛏️ Index de performance OMS (0 à 4)"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#paramètres",
+    "href": "cours/obs-raisonnement-rhumato.html#paramètres",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "5.2 Paramètres",
+    "text": "5.2 Paramètres\n\n⚖️ Poids, taille, IMC\n\n❤️ TA, pouls, FR, T°\n\n💧 Diurèse"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#principes-1",
+    "href": "cours/obs-raisonnement-rhumato.html#principes-1",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "5.3 Principes",
+    "text": "5.3 Principes\n\nInspection\n\nPalpation\n\nPercussion\n\nMobilisation / A"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#examen-ostéo-articulaire",
+    "href": "cours/obs-raisonnement-rhumato.html#examen-ostéo-articulaire",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "5.4 Examen ostéo-articulaire",
+    "text": "5.4 Examen ostéo-articulaire\n\nSquelette axial\n\nSquelette périphérique\n\nÉtapes : inspection, palpation, percussion, mobilisation\n\nManœuvres spéciales : Lasègue, Léri…"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#autres-systèmes",
+    "href": "cours/obs-raisonnement-rhumato.html#autres-systèmes",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "5.5 Autres systèmes",
+    "text": "5.5 Autres systèmes\n\nNeurologique\n\nCardio-respiratoire\n\nDigestif\n\nCutané\n\nUro-génital\n\nHématologique"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#résumé-syndromique",
+    "href": "cours/obs-raisonnement-rhumato.html#résumé-syndromique",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "6.1 Résumé syndromique",
+    "text": "6.1 Résumé syndromique\n\n\n6.1.1 🎯 Principes du résumé\n\nidentification synthétique\n\nreformulation scientifique du motif\n\nextraction des éléments clés\n\n\n\n\n\n6.1.2 Exemple\n\n« Homme de 45 ans, admis pour gonalgie droite évoluant depuis 8 semaines dans un contexte de fièvre et de diarrhée intermittente. »"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#approche-diagnostique",
+    "href": "cours/obs-raisonnement-rhumato.html#approche-diagnostique",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "6.2 Approche diagnostique",
+    "text": "6.2 Approche diagnostique\n\n6.2.1 Formulation d’hypothèses\n\nEn général 3 diagnostics\n\nDe la plus probable à la moins probable\n\n\n\n6.2.2 Discussion\n\nArguments pour et contre\n\nArguments cliniques\n\nParacliniques\n\nFacteurs épidémiologiques"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#investigations",
+    "href": "cours/obs-raisonnement-rhumato.html#investigations",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "6.3 Investigations",
+    "text": "6.3 Investigations\n\nExamens biologiques\n\nExamens morphologiques\n\nExamens fonctionnels"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#diagnostic-de-travail",
+    "href": "cours/obs-raisonnement-rhumato.html#diagnostic-de-travail",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "6.4 Diagnostic de travail",
+    "text": "6.4 Diagnostic de travail\n\nHypothèse retenue\n\nSert de base à la prise en charge"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#traitement-curatif",
+    "href": "cours/obs-raisonnement-rhumato.html#traitement-curatif",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "7.1 Traitement curatif",
+    "text": "7.1 Traitement curatif\n\n7.1.1 Buts\n\nTraiter la cause\n\nGérer les comorbidités\n\nPrévenir les complications\n\n\n\n7.1.2 Moyens\n\nMédicaux\n\nhygiène, diététique\n\nsymptomatiques\n\ntraitements de fond\n\n\nChirurgicaux\n\nInstrumentaux"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#conduite-pratique",
+    "href": "cours/obs-raisonnement-rhumato.html#conduite-pratique",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "7.2 Conduite pratique",
+    "text": "7.2 Conduite pratique\n\nRaisonnement par problème\n\nDéfinir les moyens disponibles\n\nIndications médicales, chirurgicales, instrumentales"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#prévention",
+    "href": "cours/obs-raisonnement-rhumato.html#prévention",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "7.3 Prévention",
+    "text": "7.3 Prévention\n\n🛡️ Prévention primaire\n\n🛡️ Prévention secondaire\n\n🛡️ Prévention tertiaire"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#évolution",
+    "href": "cours/obs-raisonnement-rhumato.html#évolution",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "8.1 Évolution",
+    "text": "8.1 Évolution\n\n📈 Paramètres cliniques\n\n🧪 Paramètres paracliniques\n\n⚠️ Effets secondaires"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#types-dévolution",
+    "href": "cours/obs-raisonnement-rhumato.html#types-dévolution",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "8.2 Types d’évolution",
+    "text": "8.2 Types d’évolution\n\nFavorable\n\nDéfavorable"
+  },
+  {
+    "objectID": "cours/obs-raisonnement-rhumato.html#pronostic",
+    "href": "cours/obs-raisonnement-rhumato.html#pronostic",
+    "title": "Observation médicale et raisonnement clinique en rhumatologie",
+    "section": "8.3 Pronostic",
+    "text": "8.3 Pronostic\n\nCourt terme\n\nMoyen terme\n\nLong terme"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html",
+    "href": "cours/spondylodiscite-rhumato.html",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "",
+    "text": "✅ Définir la spondylodiscite\n✅ Faire le diagnostic positif de la spondylodiscite tuberculeuse\n✅ Citer les 4 principaux germes banals\n✅ Énoncer les principes du traitement"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#définition",
+    "href": "cours/spondylodiscite-rhumato.html#définition",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "2.1 Définition",
+    "text": "2.1 Définition\n\n\n2.1.1 📘 Définition\nSpondylodiscite = atteinte inflammatoire de :\n\n💿 Disque intervertébral (discite)\n🦴 Corps vertébraux adjacents (spondylite)1\n\n\n\n\n\n2.1.2 ⚠️ Urgence\n🛑 La spondylodiscite est une urgence diagnostique et médico-chirurgicale.2"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#introduction",
+    "href": "cours/spondylodiscite-rhumato.html#introduction",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "2.2 Introduction",
+    "text": "2.2 Introduction\n\n\n2.2.1 🎯 Intérêt\n\n🔢 Fréquence : ≈ 34 % des infections ostéo-articulaires.\n🧫 Étiologie tuberculeuse : ≈ 7,6 %.\n🩺 Diagnostic fondé sur la clinique, la biologie et l’imagerie.\n🧪 La ponction-biopsie disco-vertébrale permet l’isolement du germe."
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#rappels-anatomiques",
+    "href": "cours/spondylodiscite-rhumato.html#rappels-anatomiques",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "2.3 Rappels anatomiques",
+    "text": "2.3 Rappels anatomiques\n\n2.3.1 Colonne vertébrale et disque intervertébral\n\n\n\n2.3.2 Détails anatomiques complémentaires"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#germes-en-cause",
+    "href": "cours/spondylodiscite-rhumato.html#germes-en-cause",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "3.1 Germes en cause",
+    "text": "3.1 Germes en cause\n\n🧫 Bacille tuberculeux (bacille de Koch)\n🧪 Staphylococcus aureus\n🧪 Streptocoques β-hémolytiques"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#terrain-et-facteurs-favorisants",
+    "href": "cours/spondylodiscite-rhumato.html#terrain-et-facteurs-favorisants",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "3.2 Terrain et facteurs favorisants",
+    "text": "3.2 Terrain et facteurs favorisants\n\n\n3.2.1 👤 Terrain à risque3\n\nSexe masculin\nÂge &gt; 50 ans\nPrésence de facteurs favorisants\n\n\n\n\n\n3.2.2 ⚠️ Facteurs favorisants\n\n😷 Immunodépression : VIH, diabète, insuffisance rénale chronique, hémodialyse, insuffisance hépatique, rhumatismes inflammatoires chroniques\n\n💊 Corticothérapie prolongée, immunosuppresseurs\n\n🍷 Alcoolisme\n\n☣️ Toxicomanie"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#porte-dentrée",
+    "href": "cours/spondylodiscite-rhumato.html#porte-dentrée",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "3.3 Porte d’entrée",
+    "text": "3.3 Porte d’entrée\n\n\n3.3.1 🚪 Principales portes d’entrée4\n\nPulmonaire (≈ 50 % des tuberculoses pulmonaires)\nDentaire\nDigestive\nUrologique\nCutanée"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#inoculation-et-atteinte-vertébrale",
+    "href": "cours/spondylodiscite-rhumato.html#inoculation-et-atteinte-vertébrale",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "3.4 Inoculation et atteinte vertébrale",
+    "text": "3.4 Inoculation et atteinte vertébrale\n\n3.4.1 Voies d’inoculation\n\n🩸 Hématogène\n💉 Directe\n\n\n\n3.4.2 Atteinte du corps vertébral\n\nPlateaux vertébraux\n\nDisque intervertébral\n\nExtensions vasculaires et sous-ligamentaires\n\n\n\n3.4.3 🖼 Schéma d’atteinte vertébrale"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#mal-de-pott-présentation-typique",
+    "href": "cours/spondylodiscite-rhumato.html#mal-de-pott-présentation-typique",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "4.1 Mal de Pott : présentation typique",
+    "text": "4.1 Mal de Pott : présentation typique\n\n\n4.1.1 🔴 Mal de Pott\n\nFréquente chez l’Africain\n≈ 75 % des spondylodiscites infectieuses\nPossible à tout âge\nSouvent associée à un contage tuberculeux"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#motif-de-consultation-douleur-rachidienne",
+    "href": "cours/spondylodiscite-rhumato.html#motif-de-consultation-douleur-rachidienne",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "4.2 Motif de consultation : douleur rachidienne",
+    "text": "4.2 Motif de consultation : douleur rachidienne\n\nLiée à la topographie\nLocalisée ou irradiant\nInstallation insidieuse\nMécanique puis inflammatoire\nIntensité variable"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#troubles-moteurs-et-déformations",
+    "href": "cours/spondylodiscite-rhumato.html#troubles-moteurs-et-déformations",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "4.3 Troubles moteurs et déformations",
+    "text": "4.3 Troubles moteurs et déformations\n\n4.3.1 Troubles moteurs\n\nParaparésie\n\nParaplégie\n\nTétraplégie\n\n\n\n4.3.2 Déformations\n\nTuméfaction rachidienne\n\nGibbosité"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#interrogatoire",
+    "href": "cours/spondylodiscite-rhumato.html#interrogatoire",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "4.4 Interrogatoire",
+    "text": "4.4 Interrogatoire\n\n4.4.1 Signes généraux\n\n🌡️ Fièvre vespérale\n\n😴 Asthénie\n\n🚫🍽️ Anorexie\n\n⚖️ Amaigrissement\n\n🌙 Sueurs nocturnes\n\n\n\n4.4.2 Facteurs favorisants\n\nAntécédents TB\n\nNotion de contage\n\nPromiscuité\n\nImmunodépression"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#syndrome-rachidien",
+    "href": "cours/spondylodiscite-rhumato.html#syndrome-rachidien",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "4.5 Syndrome rachidien",
+    "text": "4.5 Syndrome rachidien\n\n4.5.1 Inspection\n\nAttitude guindée\nCourbures modifiées\nTuméfaction dorsolombaire\n\n\n\n4.5.2 Palpation\n\nContracture paravertébrale\n\nPoints douloureux\n\nAbcès froid\n\n\n\n4.5.3 🖼 Illustration clinique"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#examen-physique",
+    "href": "cours/spondylodiscite-rhumato.html#examen-physique",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "4.6 Examen physique",
+    "text": "4.6 Examen physique\n\n4.6.1 Mobilité\n\n🔒 Raideur segmentaire\n\nImpossibilité des mouvements\n\n\n\n4.6.2 Neurologique\n\nDéficit moteur\n\nTroubles sensitifs\n\nTroubles sphinctériens\n\n\n\n4.6.3 État général\n\nÉvaluation\n\nRecherche d’autres atteintes TB : poumon, ganglions, tube digestif, uro-génital"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#radiographie-standard",
+    "href": "cours/spondylodiscite-rhumato.html#radiographie-standard",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "5.1 Radiographie standard",
+    "text": "5.1 Radiographie standard\n\n\n5.1.1 🩻 Signes radiographiques\n\n🔻 Pincement discal\n\nDéminéralisation\n\nÉrosions\n\nGéodes\n\nOpacité paravertébrale\n\n\n\n\n\n\n5.1.2 Exemples"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#tdm-scintigraphie",
+    "href": "cours/spondylodiscite-rhumato.html#tdm-scintigraphie",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "5.2 TDM & scintigraphie",
+    "text": "5.2 TDM & scintigraphie\n\nLésions osseuses\n\nBilan d’extension\n\nHyperfixation scintigraphique"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#irm",
+    "href": "cours/spondylodiscite-rhumato.html#irm",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "5.3 IRM",
+    "text": "5.3 IRM\n\n\n5.3.1 🚨 IRM rachidienne\nExamen clé en urgence neurologique\n\n\n\nSéquences T1 / T2 / STIR\n\nRecherche épidurite / abcès\n\n\n\n5.3.2 Autres vues"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#examens-spécifiques",
+    "href": "cours/spondylodiscite-rhumato.html#examens-spécifiques",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "5.4 Examens spécifiques",
+    "text": "5.4 Examens spécifiques\n\n\n5.4.1 🔬 Ponction / biopsie\nPermet l’isolement du germe et la confirmation diagnostique.\n\n\n\n5.4.2 Histologie\n\nGranulome épithélioïde\n\nNécrose caséeuse\n\n\n\n5.4.3 Cyto-bactériologie\n\nAuramine\n\nLowenstein / BACTEC\n\nPCR BK"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#arguments-indirects",
+    "href": "cours/spondylodiscite-rhumato.html#arguments-indirects",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "5.5 Arguments indirects",
+    "text": "5.5 Arguments indirects\n\n5.5.1 Bactériologie\n\nBAAR\n\nCulture\n\nCrachats, urine\n\n\n\n5.5.2 Biologie\n\nQuantiferon\n\nIDR phlycténulaire"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#comparatif",
+    "href": "cours/spondylodiscite-rhumato.html#comparatif",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "6.1 Comparatif",
+    "text": "6.1 Comparatif\n\n\n\n\nGermes banals\nTuberculose\n\n\n\n\nDébut\nBrutal\nProgressif\n\n\nFièvre\nÉlevée\nFaible\n\n\nVS\nTrès élevée\nModérée\n\n\nCRP\nTrès haute\nMoyenne\n\n\nHémocultures\nPositives\nNégatives\n\n\nRadiographie\nDestructive\nPeu sévère\n\n\nComplications neuro\nRares\nFréquentes"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#étiologies",
+    "href": "cours/spondylodiscite-rhumato.html#étiologies",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "6.2 Étiologies",
+    "text": "6.2 Étiologies\n\n6.2.1 Spécifiques\n\nTB\n\nBrucellose\n\n\n\n6.2.2 Banal\n\nCocci Gram +\n\nBacilles Gram –\n\n\n\n6.2.3 Autres\n\nParasites\n\nMycoses\n\nVirus"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#objectifs",
+    "href": "cours/spondylodiscite-rhumato.html#objectifs",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "7.1 Objectifs",
+    "text": "7.1 Objectifs\n\n\n7.1.1 🎯 Objectifs\n\nStériliser le foyer\n\nSoulager le patient\n\nPrévenir les complications\n\nRéinsertion sociale"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#traitement-antituberculeux",
+    "href": "cours/spondylodiscite-rhumato.html#traitement-antituberculeux",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "7.2 Traitement antituberculeux",
+    "text": "7.2 Traitement antituberculeux\n\nRifampicine\n\nIsoniazide\n\nPyrazinamide\n\nEthambutol\n\nSchéma : RHZE 2 mois → RH 10 mois"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#antibiothérapie",
+    "href": "cours/spondylodiscite-rhumato.html#antibiothérapie",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "7.3 Antibiothérapie",
+    "text": "7.3 Antibiothérapie\n\nOxacilline\n\nCeftriaxone\n\nGentamycine\n\nOfloxacine\n\nAcide fusidique"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#traitement-physique",
+    "href": "cours/spondylodiscite-rhumato.html#traitement-physique",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "7.4 Traitement physique",
+    "text": "7.4 Traitement physique\n\nNursing\n\nCorset\n\nRééducation"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#traitement-chirurgical",
+    "href": "cours/spondylodiscite-rhumato.html#traitement-chirurgical",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "7.5 Traitement chirurgical",
+    "text": "7.5 Traitement chirurgical\n\nDrainage\n\nDécompression\n\nStabilisation"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#surveillance",
+    "href": "cours/spondylodiscite-rhumato.html#surveillance",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "7.6 Surveillance",
+    "text": "7.6 Surveillance\n\nClinique : ictère, prurit, urines foncées, arthralgies\n\nParaclinique : transaminases, urée, créatinine\n\nImagerie en fin de traitement"
+  },
+  {
+    "objectID": "cours/spondylodiscite-rhumato.html#footnotes",
+    "href": "cours/spondylodiscite-rhumato.html#footnotes",
+    "title": "Spondylodiscite vue par le rhumatologue",
+    "section": "Notes de bas de page",
+    "text": "Notes de bas de page\n\n\nCofer, 7ᵉ édition.↩︎\nJean-Guillome et al., Revue du Rhumatisme 89 (avril 2022) : 79–83.↩︎\nCofer, 7ᵉ édition.↩︎\nGrassa et al., Revue de médecine interne 40 (2019).↩︎"
   }
 ]
