@@ -1,5 +1,15 @@
 project:
-  title: "BNZ_site"
+  type: website
 
+website:
+  title: "BNZ - Cours"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: BNZ_site.qmd
+        text: Exemple
 
-
+format:
+  html:
+    theme: cosmo
